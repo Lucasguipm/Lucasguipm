@@ -1,6 +1,8 @@
 # Olá! 👋
 
-Desenvolvedor Full Stack Jr. com experiência prática no desenvolvimento de aplicações web utilizando JavaScript, React, Node.js, Python, HTML5, CSS3 e APIs REST. 
+Sou Desenvolvedor Full Stack com experiência prática na construção de aplicações web utilizando JavaScript, React, Node.js, Python, HTML5, CSS3 e APIs REST.
+
+Atualmente desenvolvo projetos para aprofundar meus conhecimentos em desenvolvimento web e estou em busca da minha primeira oportunidade profissional na área de tecnologia.
 
 
 
